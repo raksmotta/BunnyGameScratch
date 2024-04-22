@@ -4,4 +4,4 @@ Trabalho da disciplina "Laboratório de Introdução à Computação", do primei
 
 O jogo, inspirado no antigo video game "Frogger" e no mobile game "Crossy Road", tem como objetivo fazer um coelhinho atravessar ruas e um rio, chegando até as cenouras ao final da travessia. O usuário possui três vidas e o controle do personagem é feito pelas arrow keys do teclado.
 
-O jogador deve completar 5 pontos, isto é, alcançar as cenouras ileso 5 vezes seguidas para vencer o jogo.
+O jogador deve acumular 5 pontos, isto é, alcançar as cenouras ileso 5 vezes consecutivas para vencer o jogo.
